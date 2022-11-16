@@ -1,11 +1,11 @@
 import { Component } from '@angular/core';
 
 @Component({
-  selector: 'my-app',
+  selector: 'app-root',
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.css'],
 })
 export class AppComponent {
-  nombre: string = 'Fernando';
-  apellido: string = 'Herrera';
+  nombre: string = 'Sebastian';
+  apellido: string = 'Calabro';
 }
